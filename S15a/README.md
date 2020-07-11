@@ -148,7 +148,7 @@ To see an overview of the contents of the file, go [here](#dump-bounding-box-dat
 
 ## Statistics
 
-add git hub link
+https://github.com/abishek-raju/EVA4B2/blob/branch1/S15a/MODEST_Museum_Dataset_Statistics.ipynb
 
 - Dataset Size: 6.6 GB
 - Number of Text Files: 2
@@ -177,7 +177,7 @@ add git hub link
 
 ## Dataset Creation
 
-add dataset creation
+https://github.com/abishek-raju/EVA4B2/blob/branch1/S15a/MODEST_Museum_Dataset_Creation.ipynb
 
 The dataset was created as follows
 
