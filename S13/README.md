@@ -21,10 +21,7 @@ Object detection with Yolo v3 using transfer learning on a class that doesn't be
 
 Class selected: **Jerry**
 
-### Result
 
-Click on the video below to play  
-[![](http://img.youtube.com/vi/AZXHEDufQmM/0.jpg)](https://github.com/abishek-raju/EVA4B2/blob/master/S13/YoloV3-Jerry.ipynb')
 
 ### Parameters and Hyperparameters
 
