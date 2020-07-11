@@ -213,16 +213,6 @@ Later, after all the images and depth maps are created, all the images will be r
 
 ![bg](images/bg_grid.png)
 
-### Background removal from foregrounds
-
-All the downloaded foreground images should have a transparent background in order to overlay them on top of background images.
-
-For removing backgrounds, the open-source software **GIMP - GNU Image Manipulation Program** can be used. Steps for removing background using GIMP has been shown below:
-
-![background_removal_with_gimp](images/background_removal.gif)
-
-Images are exported as PNG because it allows the image to have a transparent background.
-
 #### Sample foreground images
 
 ![fg](images/fg_grid.png)
